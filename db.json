@@ -2,20 +2,20 @@
   "contacts": [
     {
       "name": "akjhdkf",
-      "mobile": "\"718-3883-9263\"",
-      "status": true,
+      "mobile": "718-3883-9263",
+      "status": "true",
       "email": "Post 1"
     },
     {
       "name": "akjhdkf",
-      "mobile": "\"718-3883-9263\"",
-      "status": true,
+      "mobile": "718-3883-9263",
+      "status": "true",
       "email": "Post 1"
     },
     {
       "name": "akjhdkf",
-      "mobile": "\"718-3883-9263\"",
-      "status": true,
+      "mobile": "718-3883-9263",
+      "status": "true",
       "email": "Post 1"
     }
   ]
